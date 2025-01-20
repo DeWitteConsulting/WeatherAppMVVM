@@ -1,0 +1,4 @@
+
+enum AppTransition {
+    case showHome
+}
